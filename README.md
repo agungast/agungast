@@ -70,22 +70,6 @@
 ### 🎮 Play Tic-Tac-Toe!
 
 <!-- tictactoe start -->
-<p align="center">
-  <b>Klik salah satu sel kosong di bawah ini untuk memulai permainan melawan AI:</b>
-</p>
-<p align="center">
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C1"><img src="https://raw.githubusercontent.com/agungast/agungast/main/ttt/1.png" width="80" height="80"/></a>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C2"><img src="https://raw.githubusercontent.com/agungast/agungast/main/ttt/2.png" width="80" height="80"/></a>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C3"><img src="https://raw.githubusercontent.com/agungast/agungast/main/ttt/3.png" width="80" height="80"/></a>
-  <br>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C1"><img src="https://raw.githubusercontent.com/agungast/agungast/main/ttt/4.png" width="80" height="80"/></a>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C2"><img src="https://raw.githubusercontent.com/agungast/agungast/main/ttt/5.png" width="80" height="80"/></a>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C3"><img src="https://raw.githubusercontent.com/agungast/agungast/main/ttt/6.png" width="80" height="80"/></a>
-  <br>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C1"><img src="https://raw.githubusercontent.com/agungast/agungast/main/ttt/7.png" width="80" height="80"/></a>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C2"><img src="https://raw.githubusercontent.com/agungast/agungast/main/ttt/8.png" width="80" height="80"/></a>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C3"><img src="https://raw.githubusercontent.com/agungast/agungast/main/ttt/9.png" width="80" height="80"/></a>
-</p>
 <!-- tictactoe end -->
 
 ---
