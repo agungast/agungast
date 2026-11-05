@@ -1,4 +1,4 @@
-name: README Tic-Tac-Toe
+name: Tic-Tac-Toe
 
 on:
   issues:
@@ -8,7 +8,6 @@ jobs:
   tictactoe:
     runs-on: ubuntu-latest
     steps:
-      - name: Play Tic-Tac-Toe
-        uses: TimPietrusky/readme-tic-tac-toe@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: jasonlong/tictactoe@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
