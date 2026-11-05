@@ -10,19 +10,27 @@
 
 <table>
   <tr>
-    <td width="50%" align="left">
-      ### 🌈 About Me
-
-      | 🎓 Currently | 🚀 Open to | 💡 Ask me about |
-      | :---: | :---: | :---: |
-      | **Frontend Developer Intern**<br>Politeknik Negeri Semarang | **Freelance** & collaboration | **Vue, Nuxt, React**<br>UI/UX & Supabase |
+    <td width="50%" style="padding: 15px; border-radius: 8px; background: #0B1B2E;">
+      <div style="color: #E6B064; font-weight: 700; margin-bottom: 8px;">🌈 About Me</div>
+      <div style="font-size: 16px; line-height: 1.6; color: #DCE9F7;">
+        <strong>🎓 Currently:</strong> Frontend Developer Intern<br>
+        Politeknik Negeri Semarang | Semarang, Indonesia<br><br>
+        <strong>🚀 Open to:</strong> Freelance projects & collaborations<br>
+        Open to remote & local opportunities<br><br>
+        <strong>💡 Ask me about:</strong> Vue, Nuxt, React, UI/UX design, Supabase<br>
+        Modern web interfaces & color systems
+      </div>
     </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/8%20bit%20glitch%20GIF%20by%20Ryan%20Seslow.gif" alt="8-bit glitch GIF by Ryan Seslow" width="420" />
+    <td width="50%" style="padding: 15px; border-radius: 8px; background: #0B1B2E; display: flex; align-items: center; justify-content: center;">
+      <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/8%20bit%20glitch%20GIF%20by%20Ryan%20Seslow.gif" 
+           alt="8-bit glitch GIF by Ryan Seslow" 
+           width="380" 
+           style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
     </td>
   </tr>
 </table>
 
+---
 
 ### 💻 Tech Stack
 
@@ -109,6 +117,7 @@ Kamu ❌, komputer ⭕. Klik sel kosong untuk jalan — setiap klik membuka issu
 <p align="center">
   <b>Let's build something together.</b>
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/agunghadiastanto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:agung.astanto14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
