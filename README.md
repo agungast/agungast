@@ -122,8 +122,6 @@ Kamu ❌, komputer ⭕. Klik sel kosong untuk jalan — setiap klik membuka issu
 <p align="center">
   <b>Let's build something together.</b>
 </p>
-
-< align="center">
   <a href="https://www.linkedin.com/in/agunghadiastanto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:agung.astanto14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.facebook.com/agung.astanto.73/?locale=id_ID"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
