@@ -8,41 +8,21 @@
 
 ---
 
-### 🌈 About Me
+<table>
+  <tr>
+    <td width="50%" align="left">
+      ### 🌈 About Me
 
-| 🎓 Currently | 🚀 Open to | 💡 Ask me about |
-| :---: | :---: | :---: |
-| **Frontend Developer Intern**<br>Politeknik Negeri Semarang | **Freelance** & collaboration | **Vue, Nuxt, React**<br>UI/UX & Supabase |
+      | 🎓 Currently | 🚀 Open to | 💡 Ask me about |
+      | :---: | :---: | :---: |
+      | **Frontend Developer Intern**<br>Politeknik Negeri Semarang | **Freelance** & collaboration | **Vue, Nuxt, React**<br>UI/UX & Supabase |
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/8%20bit%20glitch%20GIF%20by%20Ryan%20Seslow.gif" alt="8-bit glitch GIF by Ryan Seslow" width="420" />
+    </td>
+  </tr>
+</table>
 
----
-
-### 🎨 Featured Work
-
-#### 🚀 [Magyasaka-Web](https://github.com/agungast/Magyasaka-Web)
-Portal akademik kelas TI-A: pengumuman, jadwal, tugas & ujian, pengurus, galeri, dan proyek.
-
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
-
-#### 🧪 [Takt-Vibe-App](https://github.com/agungast/TaktVibeApp)
-Aplikasi task CRUD untuk belajar Nuxt 3 dan Supabase, dari form input sampai daftar tugas.
-
-<p>
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
-
-#### ⚡ [technical-test-frontend](https://github.com/agungast/technical-test-frontend)
-Halaman login dengan validasi email dan password, dibangun dengan React dan Vite.
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</p>
-
----
 
 ### 💻 Tech Stack
 
@@ -68,6 +48,7 @@ Halaman login dengan validasi email dan password, dibangun dengan React dan Vite
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 **Design**
@@ -77,7 +58,13 @@ Halaman login dengan validasi email dan password, dibangun dengan React dan Vite
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
-Also comfortable with Python, Dart/Flutter, and Jupyter Notebook.
+**Others**
+
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
 
 ---
 
@@ -98,14 +85,6 @@ Also comfortable with Python, Dart/Flutter, and Jupyter Notebook.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agungast/agungast/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/agungast/agungast/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   </picture>
-</p>
-
----
-
-### 🕹️ 8-Bit Glitch
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/8%20bit%20glitch%20GIF%20by%20Ryan%20Seslow.gif" alt="8-bit glitch GIF by Ryan Seslow" width="520" />
 </p>
 
 ---
