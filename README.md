@@ -70,22 +70,14 @@
 ### 🎮 Play Tic-Tac-Toe!
 
 <!-- tictactoe start -->
+<!-- board: --------- -->
 <p align="center">
-  <b>Klik salah satu sel di bawah untuk memulai permainan:</b>
+  <b>Giliran kamu (❌).</b><br>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C1"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C2"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C3"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a><br>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C1"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C2"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C3"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a><br>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C1"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C2"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C3"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a>
 </p>
-<p align="center">
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C1"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/master/assets/empty.png" width="80" height="80"/></a>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C2"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/master/assets/empty.png" width="80" height="80"/></a>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C3"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/master/assets/empty.png" width="80" height="80"/></a>
-  <br>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C1"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/master/assets/empty.png" width="80" height="80"/></a>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C2"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/master/assets/empty.png" width="80" height="80"/></a>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C3"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/master/assets/empty.png" width="80" height="80"/></a>
-  <br>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C1"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/master/assets/empty.png" width="80" height="80"/></a>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C2"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/master/assets/empty.png" width="80" height="80"/></a>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C3"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/master/assets/empty.png" width="80" height="80"/></a>
-</p>
+<p align="center"><a href="https://github.com/agungast/agungast/issues/new?title=ttt%7Creset">🔄 Mulai ulang</a></p>
 <!-- tictactoe end -->
 
 ---
