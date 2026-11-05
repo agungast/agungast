@@ -1,0 +1,14 @@
+name: README Tic-Tac-Toe
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  tictactoe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Play Tic-Tac-Toe
+        uses: TimPietrusky/readme-tic-tac-toe@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
