@@ -14,26 +14,25 @@
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; background: #0B1B2E; padding: 15px; border-radius: 8px; gap: 15px; margin: 15px 0;">
-  <div style="flex: 70%; color: #DCE9F7; line-height: 1.6; padding: 15px; border-radius: 8px; background: #0B1B2E;">
-    <h3 style="margin: 0 0 10px 0; color: #E6B064;">📌 About Me</h3>
-    <p style="margin: 0 0 10px 0; color: #DCE9F7; line-height: 1.6;">
-      Hello there! <strong>I'm Agung Hadi Astanto</strong>, a Computer Engineering student at <strong>Politeknik Negeri Semarang</strong>. I have a strong passion for creative web development, blending technical frontend engineering with aesthetic UI design. Currently focused on building responsive, component-driven web interfaces using <strong>Vue 3, Nuxt 3, React,</strong> and <strong>Tailwind CSS</strong>.
-    </p>
-    <ul style="color: #DCE9F7; line-height: 1.8; margin: 0; padding-left: 20px; margin-top: 8px;">
-      <li><strong>🧠 Currently Exploring:</strong> Deep-diving into <strong>Agentic AI</strong>, autonomous AI workflows, and LLM-driven applications.</li>
-      <li><strong>🎓 Academic Base:</strong> Computer Engineering Technology Student at Politeknik Negeri Semarang.</li>
-      <li><strong>🎮 Beyond Code:</strong> Big fan of gaming, watching movies, and diving into anime series.</li>
-      <li><strong>🏃 Active Lifestyle:</strong> Enjoy staying energized through regular running sessions and futsal matches.</li>
-    </ul>
-  </div>
-  <div style="flex: 30%; background: #0B1B2E; padding: 15px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-    <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/8%20bit%20glitch%20GIF%20by%20Ryan%20Seslow.gif" 
-         alt="8-bit glitch GIF by Ryan Seslow" 
-         width="250" 
-         style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
+### 📌 About Me
+
+Hello there! **I'm Agung Hadi Astanto**, a Computer Engineering student at **Politeknik Negeri Semarang**. I have a strong passion for creative web development, blending technical frontend engineering with aesthetic UI design. Currently focused on building responsive, component-driven web interfaces using **Vue 3, Nuxt 3, React,** and **Tailwind CSS**.
+
+- **🧠 Currently Exploring:** Deep-diving into **Agentic AI**, autonomous AI workflows, and LLM-driven applications.
+- **🎓 Academic Base:** Computer Engineering Technology Student at Politeknik Negeri Semarang.
+- **🎮 Beyond Code:** Big fan of gaming, watching movies, and diving into anime series.
+- **🏃 Active Lifestyle:** Enjoy staying energized through regular running sessions and futsal matches.
+
+   </td>
+   <td width="35%" align="center" valign="middle">
+     <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/8%20bit%20glitch%20GIF%20by%20Ryan%20Seslow.gif" alt="8-bit glitch GIF by Ryan Seslow" width="100%" />
+   </td>
+  </tr>
+</table>
 
 ---
 
