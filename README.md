@@ -70,6 +70,22 @@
 ### 🎮 Play Tic-Tac-Toe!
 
 <!-- tictactoe start -->
+<p align="center">
+  <b>Klik sel kosong di bawah ini untuk memulai permainan melawan AI:</b>
+</p>
+<p align="center">
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C1"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/main/assets/empty.png" width="80" height="80"/></a>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C2"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/main/assets/empty.png" width="80" height="80"/></a>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C3"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/main/assets/empty.png" width="80" height="80"/></a>
+  <br>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C1"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/main/assets/empty.png" width="80" height="80"/></a>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C2"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/main/assets/empty.png" width="80" height="80"/></a>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C3"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/main/assets/empty.png" width="80" height="80"/></a>
+  <br>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C1"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/main/assets/empty.png" width="80" height="80"/></a>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C2"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/main/assets/empty.png" width="80" height="80"/></a>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C3"><img src="https://raw.githubusercontent.com/jasonlong/tictactoe/main/assets/empty.png" width="80" height="80"/></a>
+</p>
 <!-- tictactoe end -->
 
 ---
