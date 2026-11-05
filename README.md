@@ -20,7 +20,7 @@
 
 ### 📌 About Me
 
-Hello there! **I'm Agung Hadi Astanto**, a Computer Engineering student at **Politeknik Negeri Semarang**. I have a strong passion for creative web development, blending technical frontend engineering with aesthetic UI design. Currently focused on building responsive, component-driven web interfaces.
+Hello there! **I'm Agung Hadi Astanto**, a Computer Engineering student at **Politeknik Negeri Semarang**. I have a strong passion for creative web development, blending technical frontend engineering with aesthetic UI design. Currently focused on building responsive and component-driven web interfaces.
 
 - **🧠 Currently Exploring:** Deep-diving into **Agentic AI**, autonomous AI workflows, and LLM-driven applications.
 - **🎓 Academic Base:** Computer Engineering Technology Student at Politeknik Negeri Semarang.
