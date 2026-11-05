@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B9D&center=true&vcenter=true&width=700&lines=Building+colorful+web+experiences;Vue+%C2%B7+Nuxt+%C2%B7+React+%C2%B7+Supabase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F8C308&center=true&vcenter=true&width=700&lines=Building+colorful+web+experiences;Vue+%C2%B7+Nuxt+%C2%B7+React+%C2%B7+Supabase" alt="Typing SVG" />
 </p>
 
 ---
@@ -84,8 +84,8 @@ Also comfortable with Python, Dart/Flutter, and Jupyter Notebook.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=agungast&theme=radical&hide_border=true" alt="GitHub streak" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agungast&theme=radical" alt="Most used languages" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=agungast&background=0B1B2E&border=4C89C9&stroke=4C89C9&ring=F8C308&fire=F8C308&currStreakNum=F8C308&sideNums=4C89C9&currStreakLabel=E6B064&sideLabels=E6B064&dates=8FB4D9" alt="GitHub streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agungast&theme=blue_green" alt="Most used languages" />
 </p>
 
 ---
@@ -131,5 +131,5 @@ Kamu ❌, komputer ⭕. Klik sel kosong untuk jalan — setiap klik membuka issu
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=agungast&style=for-the-badge&color=FF6B9D" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=agungast&style=for-the-badge&color=F8C308" alt="Profile views" />
 </p>
