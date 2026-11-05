@@ -16,7 +16,6 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Perbaikan pada baris 'uses' di bawah ini
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
