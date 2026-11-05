@@ -1,10 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/banner.svg" alt="Agung Hadi Astanto — Frontend Developer & UI/UX Designer" width="100%" />
+  <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/banner.svg" alt="Agung Hadi Astanto — Web Developer & UI/UX Designer" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F8C308&center=true&vcenter=true&width=700&lines=Building+colorful+web+experiences;Vue+%C2%B7+Nuxt+%C2%B7+React+%C2%B7+Supabase" alt="Typing SVG" />
+</p>
+
+---
 
 <table>
   <tr>
-    <td width="55%" style="padding: 15px; border-radius: 8px; background: #0B1B2E;">
+    <td width="60%" valign="top" bgcolor="#0B1B2E" style="padding: 15px; border-radius: 8px;">
       ### 📌 About Me
 
       Hello there! **I'm Agung Hadi Astanto**, a Frontend Developer Intern and Computer Engineering student at **Politeknik Negeri Semarang**. I specialize in bridging technical frontend engineering with aesthetic UI/UX craftsmanship. Currently focused on building responsive, component-driven web interfaces using **Vue 3, Nuxt 3, React,** and **Tailwind CSS**.
@@ -16,7 +22,7 @@
         - Class Portal & Dashboard using Nuxt 4, Supabase & Tailwind v4
         - Open for freelance web development and UI/UX design projects
     </td>
-    <td width="45%" style="padding: 15px; border-radius: 8px; background: #0B1B2E; display: flex; align-items: center; justify-content: center;">
+    <td width="40%" align="center" valign="middle" bgcolor="#0B1B2E" style="padding: 15px; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/8%20bit%20glitch%20GIF%20by%20Ryan%20Seslow.gif" 
            alt="8-bit glitch GIF by Ryan Seslow" 
            width="300" 
