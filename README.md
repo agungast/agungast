@@ -10,19 +10,23 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top" bgcolor="#0B1B2E" style="padding: 15px; border-radius: 8px;">
-      ### 📌 About Me
-
-      Hello there! **I'm Agung Hadi Astanto**, a Frontend Developer Intern and Computer Engineering student at **Politeknik Negeri Semarang**. I specialize in bridging technical frontend engineering with aesthetic UI/UX craftsmanship. Currently focused on building responsive, component-driven web interfaces using **Vue 3, Nuxt 3, React,** and **Tailwind CSS**.
-
-      - 🎓 **Computer Engineering Technology Student** at Politeknik Negeri Semarang
-      - 💻 **Frontend Developer Intern** with focus on Web Applications & UI Engineering
-      - 🧪 **Practicing SQA & Component Architecture** for scalable web platforms
-      - 🚀 **Currently working on:**
-        - Class Portal & Dashboard using Nuxt 4, Supabase & Tailwind v4
-        - Open for freelance web development and UI/UX design projects
+    <td width="60%" valign="top" style="padding: 15px; border-radius: 8px; background: #0B1B2E;">
+      <h3 style="color: #E6B064; margin: 0 0 12px 0;">📌 About Me</h3>
+      <p style="color: #DCE9F7; line-height: 1.6; margin: 0 0 12px 0;">
+        Hello there! <strong>I'm Agung Hadi Astanto</strong>, a Frontend Developer Intern and Computer Engineering student at <strong>Politeknik Negeri Semarang</strong>. I specialize in bridging technical frontend engineering with aesthetic UI/UX craftsmanship. Currently focused on building responsive, component-driven web interfaces using <strong>Vue 3, Nuxt 3, React,</strong> and <strong>Tailwind CSS</strong>.
+      </p>
+      <ul style="color: #DCE9F7; line-height: 1.8; margin: 0; padding-left: 20px;">
+        <li><strong>🎓 Computer Engineering Technology Student</strong> at Politeknik Negeri Semarang</li>
+        <li><strong>💻 Frontend Developer Intern</strong> with focus on Web Applications &amp; UI Engineering</li>
+        <li><strong>🧪 Practicing SQA &amp; Component Architecture</strong> for scalable web platforms</li>
+        <li><strong>🚀 Currently working on:</strong></li>
+        <ul style="margin: 4px 0 0 0; padding-left: 20px;">
+          <li>Class Portal &amp; Dashboard using Nuxt 4, Supabase &amp; Tailwind v4</li>
+          <li>Open for freelance web development and UI/UX design projects</li>
+        </ul>
+      </ul>
     </td>
-    <td width="40%" align="center" valign="middle" bgcolor="#0B1B2E" style="padding: 15px; border-radius: 8px;">
+    <td width="40%" align="center" valign="middle" style="padding: 15px; border-radius: 8px; background: #0B1B2E;">
       <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/8%20bit%20glitch%20GIF%20by%20Ryan%20Seslow.gif" 
            alt="8-bit glitch GIF by Ryan Seslow" 
            width="300" 
