@@ -54,7 +54,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=agungast&theme=synthwave&hide_border=true" alt="Agung's GitHub Streak" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agungast&theme=synthwave" alt="Agung's Profile Details" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agungast&theme=synthwave" alt="Top Languages" />
 </p>
 
 ---
