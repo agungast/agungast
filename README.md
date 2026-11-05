@@ -107,11 +107,11 @@ Also comfortable with Python, Dart/Flutter, and Jupyter Notebook.
 Kamu ❌, komputer ⭕. Klik sel kosong untuk jalan — setiap klik membuka issue yang langsung diproses dan ditutup bot.
 
 <!-- tictactoe start -->
-<!-- board: X---O---- -->
+<!-- board: XO--OX--- -->
 <p align="center">
   <b>Giliran kamu (❌).</b><br>
-  <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/x.svg" width="80" height="80" alt="X"> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C2"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C3"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a><br>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C1"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/o.svg" width="80" height="80" alt="O"> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C3"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a><br>
+  <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/x.svg" width="80" height="80" alt="X"> <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/o.svg" width="80" height="80" alt="O"> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C3"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a><br>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C1"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/o.svg" width="80" height="80" alt="O"> <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/x.svg" width="80" height="80" alt="X"><br>
   <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C1"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C2"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C3"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a>
 </p>
 <p align="center"><a href="https://github.com/agungast/agungast/issues/new?title=ttt%7Creset">🔄 Mulai ulang</a></p>
