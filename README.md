@@ -53,8 +53,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=agungast&show_icons=true&theme=synthwave&hide_border=true" alt="Agung's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=agungast&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=agungast&theme=synthwave&hide_border=true" alt="Agung's GitHub Streak" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agungast&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
