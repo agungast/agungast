@@ -103,7 +103,7 @@ Hello there! **I'm Agung Hadi Astanto**, a Computer Engineering student at **Pol
 
 ### 🎮 Play Tic-Tac-Toe!
 
-Kamu ❌, komputer ⭕. Klik sel kosong untuk jalan — setiap klik membuka issue yang langsung diproses dan ditutup bot.
+Kamu ❌, komputer ⭕. Klik sel kosong untuk jalan, setiap klik membuka issue yang langsung diproses dan ditutup bot.
 
 <!-- tictactoe start -->
 <!-- board: XO--OX--- -->
