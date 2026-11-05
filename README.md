@@ -26,7 +26,7 @@ Portal akademik kelas TI-A: pengumuman, jadwal, tugas & ujian, pengurus, galeri,
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-#### 🧪 [simple-crud-nuxt-supabase](https://github.com/agungast/simple-crud-nuxt-supabase)
+#### 🧪 [Takt-Vibe-App](https://github.com/agungast/TaktVibeApp)
 Aplikasi task CRUD untuk belajar Nuxt 3 dan Supabase, dari form input sampai daftar tugas.
 
 <p>
