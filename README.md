@@ -1,52 +1,51 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Agung+Hadi+Astanto;Frontend+Developer+%26+UI%2FUX+Designer;Building+modern+%26+clean+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F75C7E&center=true&vcenter=true&width=550&lines=Hi+%F0%9F%90%8B%2C+I'm+Agung+Hadi+Astanto;Frontend+Developer+%26+UI%2FUX+Designer;Building+modern+%26+colorful+web+apps" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <em>Frontend Developer Intern specializing in Vue, Nuxt, React, and modern web interfaces. Passionate about clean code, intuitive UI/UX design, and scalable systems.</em>
+  🚀 <em>Frontend Developer Intern specializing in Vue, Nuxt, React, and modern web interfaces. Passionate about clean code, intuitive UI/UX design, and scalable systems.</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/agungastanto"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:agung@example.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/agungastanto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:agung@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
-#### **Languages & Core**
+#### 🌐 **Languages & Core**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### **Frameworks & Libraries**
+#### ⚡ **Frameworks & Libraries**
 <p>
-  <img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt.js-000000?style=flat-square&logo=nuxtdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blade-000000?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-#### **Database & Analytics**
+#### 🗄️ **Database & Analytics**
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -54,8 +53,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=agungast&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="Agung's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=agungast&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&border_color=333333" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=agungast&show_icons=true&theme=synthwave&hide_border=true" alt="Agung's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=agungast&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -92,5 +91,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=agungast&style=flat-square&color=white" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=agungast&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
