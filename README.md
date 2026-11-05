@@ -54,8 +54,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=agungast&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false" alt="Agung's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungast&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&border_color=333333&hide_border=false" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=agungast&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&border_color=333333" alt="Agung's GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=agungast&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&border_color=333333" alt="Top Languages" />
 </p>
 
 ---
