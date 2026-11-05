@@ -2,13 +2,18 @@
   <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/banner.svg" alt="Agung Hadi Astanto — Web Developer & UI/UX Designer" width="100%" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F8C308&center=true&vcenter=true&width=700&lines=Building+colorful+web+experiences;Vue+%C2%B7+Nuxt+%C2%B7+React+%C2%B7+Supabase" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/agunghadiastanto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:agung.astanto14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.facebook.com/agung.astanto.73/?locale=id_ID"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/agungast_14/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/agungast"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-<h3 style="color: #E6B064; margin: 15px 0 10px 0;">📌 About Me</h3>
 <div style="display: flex; justify-content: center; align-items: center; background: #0B1B2E; padding: 15px; border-radius: 8px; gap: 15px; margin: 15px 0;">
   <div style="flex: 70%; color: #DCE9F7; line-height: 1.6; padding: 15px; border-radius: 8px; background: #0B1B2E;">
     <h3 style="margin: 0 0 10px 0; color: #E6B064;">📌 About Me</h3>
@@ -113,18 +118,6 @@ Kamu ❌, komputer ⭕. Klik sel kosong untuk jalan — setiap klik membuka issu
 <!-- tictactoe end -->
 
 ---
-
-<p align="center">
-  <b>Let's build something together.</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/agunghadiastanto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:agung.astanto14@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.facebook.com/agung.astanto.73/?locale=id_ID"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/agungast_14/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://github.com/agungast"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=agungast&style=for-the-badge&color=F8C308" alt="Profile views" />
