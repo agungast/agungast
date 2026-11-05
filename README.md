@@ -102,6 +102,14 @@ Also comfortable with Python, Dart/Flutter, and Jupyter Notebook.
 
 ---
 
+### 🕹️ 8-Bit Glitch
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/8%20bit%20glitch%20GIF%20by%20Ryan%20Seslow.gif" alt="8-bit glitch GIF by Ryan Seslow" width="520" />
+</p>
+
+---
+
 ### 🎮 Play Tic-Tac-Toe!
 
 Kamu ❌, komputer ⭕. Klik sel kosong untuk jalan — setiap klik membuka issue yang langsung diproses dan ditutup bot.
