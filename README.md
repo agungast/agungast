@@ -8,29 +8,26 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="60%" valign="top" style="padding: 15px; border-radius: 8px; background: #0B1B2E;">
-      <h3 style="color: #E6B064; margin: 0 0 12px 0;">📌 About Me</h3>
-      <p style="color: #DCE9F7; line-height: 1.6; margin: 0 0 14px 0;">
-        Hello there! <strong>I'm Agung Hadi Astanto</strong>, a Computer Engineering student at <strong>Politeknik Negeri Semarang</strong>. I have a strong passion for creative web development, blending technical frontend engineering with aesthetic UI design. Currently focused on building responsive, component-driven web interfaces using <strong>Vue 3, Nuxt 3, React,</strong> and <strong>Tailwind CSS</strong>.
-      </p>
-      
-      <ul style="color: #DCE9F7; line-height: 1.8; margin: 0; padding-left: 20px;">
-        <li><strong>🧠 Currently Exploring:</strong> Deep-diving into <strong>Agentic AI</strong>, autonomous AI workflows, and LLM-driven applications.</li>
-        <li><strong>🎓 Academic Base:</strong> Computer Engineering Technology Student at Politeknik Negeri Semarang.</li>
-        <li><strong>🎮 Beyond Code:</strong> Big fan of gaming, watching movies, and diving into anime series.</li>
-        <li><strong>🏃 Active Lifestyle:</strong> Enjoy staying energized through regular running sessions and futsal matches.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle" style="padding: 15px; border-radius: 8px; background: #0B1B2E;">
-      <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/8%20bit%20glitch%20GIF%20by%20Ryan%20Seslow.gif" 
-           alt="8-bit glitch GIF by Ryan Seslow" 
-           width="300" 
-           style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-    </td>
-  </tr>
-</table>
+<h3 style="color: #E6B064; margin: 15px 0 10px 0; text-align: center;">📌 About Me</h3>
+<div style="display: flex; justify-content: center; align-items: center; background: #0B1B2E; padding: 15px; border-radius: 8px; gap: 15px; margin: 15px 0;">
+  <div style="flex: 60%; color: #DCE9F7; line-height: 1.6; padding: 15px; border-radius: 8px; background: #0B1B2E;">
+    <p style="margin: 0 0 10px 0; color: #DCE9F7; line-height: 1.6;">
+      Hello there! <strong>I'm Agung Hadi Astanto</strong>, a Computer Engineering student at <strong>Politeknik Negeri Semarang</strong>. I have a strong passion for creative web development, blending technical frontend engineering with aesthetic UI design. Currently focused on building responsive, component-driven web interfaces using <strong>Vue 3, Nuxt 3, React,</strong> and <strong>Tailwind CSS</strong>.
+    </p>
+    <ul style="color: #DCE9F7; line-height: 1.8; margin: 0; padding-left: 20px; margin-top: 8px;">
+      <li><strong>🧠 Currently Exploring:</strong> Deep-diving into <strong>Agentic AI</strong>, autonomous AI workflows, and LLM-driven applications.</li>
+      <li><strong>🎓 Academic Base:</strong> Computer Engineering Technology Student at Politeknik Negeri Semarang.</li>
+      <li><strong>🎮 Beyond Code:</strong> Big fan of gaming, watching movies, and diving into anime series.</li>
+      <li><strong>🏃 Active Lifestyle:</strong> Enjoy staying energized through regular running sessions and futsal matches.</li>
+    </ul>
+  </div>
+  <div style="flex: 40%; background: #0B1B2E; padding: 15px; border-radius: 8px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+    <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/8%20bit%20glitch%20GIF%20by%20Ryan%20Seslow.gif" 
+         alt="8-bit glitch GIF by Ryan Seslow" 
+         width="300" 
+         style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+  </div>
+</div>
 
 ---
 
@@ -108,10 +105,10 @@ Kamu ❌, komputer ⭕. Klik sel kosong untuk jalan — setiap klik membuka issu
 <p align="center">
   <b>Giliran kamu (❌).</b><br>
   <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/x.svg" width="80" height="80" alt="X"> <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/o.svg" width="80" height="80" alt="O"> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C1%7C3"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a><br>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7C1"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/o.svg" width="80" height="80" alt="O"> <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/x.svg" width="80" height="80" alt="X"><br>
-  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C1"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C2"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C3%7C3"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7C2%7c1"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/o.svg" width="80" height="80" alt="O"> <img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/x.svg" width="80" height="80" alt="X"><br>
+  <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7c3%7c1"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7c3%7c2"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a> <a href="https://github.com/agungast/agungast/issues/new?title=ttt%7c3%7c3"><img src="https://raw.githubusercontent.com/agungast/agungast/main/assets/empty.svg" width="80" height="80" alt="-"></a>
 </p>
-<p align="center"><a href="https://github.com/agungast/agungast/issues/new?title=ttt%7Creset">🔄 Mulai ulang</a></p>
+<p align="center"><a href="https://github.com/agungast/agungast/issues/new?title=ttt%7creset">🔄 Mulai ulang</a></p>
 <!-- tictactoe end -->
 
 ---
