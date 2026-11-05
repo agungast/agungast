@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Agung Hadi Astanto, Frontend Developer and UI/UX Designer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1E0B3A"/>
+      <stop offset="0.55" stop-color="#2B0B4D"/>
+      <stop offset="1" stop-color="#3B0764"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF6B9D"/>
+      <stop offset="0.5" stop-color="#C084FC"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF6B9D" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FF6B9D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="110" cy="30" r="250" fill="url(#glow1)"/>
+  <circle cx="1090" cy="310" r="270" fill="url(#glow2)"/>
+
+  <text x="72" y="96" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="4" fill="#F472B6">FRONTEND DEVELOPER · UI/UX DESIGNER</text>
+  <text x="72" y="176" font-family="'Segoe UI', Arial, sans-serif" font-size="62" font-weight="800" fill="#FFFFFF">Agung Hadi Astanto</text>
+  <rect x="72" y="196" width="220" height="8" rx="4" fill="url(#accent)"/>
+  <text x="72" y="242" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="600" fill="#E9D5FF">Vue · Nuxt · React · Supabase · Figma</text>
+  <text x="72" y="282" font-family="'Segoe UI', Arial, sans-serif" font-size="20" fill="#A78BFA">Semarang, Indonesia · Open to freelance &amp; collaboration</text>
+
+  <g transform="translate(820 70)">
+    <rect width="310" height="180" rx="18" fill="url(#card)" stroke="#4C1D95" stroke-width="2"/>
+    <circle cx="26" cy="26" r="6" fill="#FF6B9D"/>
+    <circle cx="48" cy="26" r="6" fill="#FBBF24"/>
+    <circle cx="70" cy="26" r="6" fill="#34D399"/>
+    <rect x="26" y="58" width="120" height="10" rx="5" fill="#C084FC"/>
+    <rect x="158" y="58" width="62" height="10" rx="5" fill="#38BDF8"/>
+    <rect x="26" y="84" width="82" height="10" rx="5" fill="#FF6B9D"/>
+    <rect x="120" y="84" width="150" height="10" rx="5" fill="#7DD3FC" opacity="0.8"/>
+    <rect x="26" y="110" width="180" height="10" rx="5" fill="#FBBF24" opacity="0.85"/>
+    <rect x="26" y="136" width="104" height="10" rx="5" fill="#34D399" opacity="0.85"/>
+    <text x="26" y="170" font-family="monospace" font-size="16" fill="#A78BFA">~/agungast</text>
+  </g>
+</svg>
